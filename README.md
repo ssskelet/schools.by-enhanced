@@ -6,3 +6,6 @@
 <img width="2212" height="2724" alt="изображение" src="https://github.com/user-attachments/assets/ec95c1c0-e5f4-4782-bb7f-8ee59ce13055" />
 Удачного пользования!
 <img width="1865" height="907" alt="изображение" src="https://github.com/user-attachments/assets/bee1e9e1-f358-4409-ac63-007d8028dc1a" />
+
+
+СКОРО ЗАГРУЗКА ПРИЛОЖЕНИЯ!
