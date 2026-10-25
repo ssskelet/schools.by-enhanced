@@ -15,12 +15,12 @@ VirusTotal показал только 1 сработку, из за отпра�
 
 Скачать можно по ссылке:
 
-[Google Drive](google.com)
+[Google Drive](https://google.com)
 
-[Mediafire](google.com)
+[Mediafire](https://google.com)
 
-[Mega](google.com)
+[Mega](https://google.com)
 
-[Яндекс диск](google.com)
+[Яндекс диск](https://google.com)
 
 При ошибке скачивания с одного портала попробуйте другой!
