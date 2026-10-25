@@ -5,9 +5,9 @@
 
 Приложение потребует вход в ваш аккаунт schools.by, и кроме сервиса schools.by ваши данные не будут переданы 3-им лицам!
 
-[Cкачать приложение](#download)
+[Cкачать приложение](##download)
 
-[Связь](#contact)
+[Связь](##contact)
 
 Приложение работает только по подписке!  Получить ключ можно написав в  Telegram бота: @schools_by_enhanced_bot
 <img width="474" height="543" alt="изображение" src="https://github.com/user-attachments/assets/e796c697-492b-490a-bfdc-215585574bc3" />
