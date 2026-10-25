@@ -7,6 +7,8 @@
 
 [Cкачать приложение](#download)
 
+[Связь](#contact)
+
 Приложение работает только по подписке!  Получить ключ можно написав в  Telegram бота: @schools_by_enhanced_bot
 <img width="474" height="543" alt="изображение" src="https://github.com/user-attachments/assets/e796c697-492b-490a-bfdc-215585574bc3" />
 
@@ -25,3 +27,8 @@ VirusTotal показал только 1 сработку, из за отпра�
 [Mega](https://mega.nz/file/9d9ShCpZ#Xj_qn2beJdqiCXZoyp40ky9fB1-fn6Ocly2l0kB3Hls)
 
 При ошибке скачивания с одного портала попробуйте другой!
+
+#contact
+Made by ssskelet
+Связь: ssskelet@outlook.com
+Telegram бот: [@schools_by_enhanced_bot](tg:@schools_by_enhanced_bot)
