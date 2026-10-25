@@ -10,11 +10,15 @@
 [Связь📧](#2)
 
 Приложение работает только по подписке!  Получить ключ можно написав в  Telegram бота: @schools_by_enhanced_bot
+
 <img width="474" height="543" alt="изображение" src="https://github.com/user-attachments/assets/e796c697-492b-490a-bfdc-215585574bc3" />
 
 Удачного пользования!
+
 <img width="1865" height="907" alt="изображение" src="https://github.com/user-attachments/assets/bee1e9e1-f358-4409-ac63-007d8028dc1a" />
+
 Приложение не содержит никаких вирусов!
+
 <img width="1873" height="868" alt="изображение" src="https://github.com/user-attachments/assets/870a58c4-a995-4f82-a990-98c3038702b2" />
 
 VirusTotal показал только 1 сработку, из за отправки ваших данных для входа на официальный сайт schools.by, кроме этого сайта ваши данные никто не видит, т.к. приложение работает локально
