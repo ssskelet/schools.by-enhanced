@@ -19,7 +19,7 @@
 [!WARNING]
 VirusTotal показал только 1 сработку, из за отправки ваших данных для входа на официальный сайт schools.by, кроме этого сайта ваши данные никто не видит, т.к. приложение работает локально
 
-#download
+##download
 Скачать можно по ссылке:
 
 [Google Drive](https://drive.google.com/file/d/19pNIGY80TlmoEFG9sgoUKpGXWwwmy3uI/view?usp=sharing)
@@ -30,7 +30,7 @@ VirusTotal показал только 1 сработку, из за отпра�
 
 При ошибке скачивания с одного портала попробуйте другой!
 
-#contact
+##contact
 
 Made by ssskelet
 
