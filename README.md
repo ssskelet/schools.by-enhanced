@@ -5,9 +5,9 @@
 
 Приложение потребует вход в ваш аккаунт schools.by, и кроме сервиса schools.by ваши данные не будут переданы 3-им лицам!
 
-[Cкачать приложение](##download)
+[Cкачать приложение](#1)
 
-[Связь](##contact)
+[Связь](#2)
 
 Приложение работает только по подписке!  Получить ключ можно написав в  Telegram бота: @schools_by_enhanced_bot
 <img width="474" height="543" alt="изображение" src="https://github.com/user-attachments/assets/e796c697-492b-490a-bfdc-215585574bc3" />
@@ -19,7 +19,7 @@
 [!WARNING]
 VirusTotal показал только 1 сработку, из за отправки ваших данных для входа на официальный сайт schools.by, кроме этого сайта ваши данные никто не видит, т.к. приложение работает локально
 
-##download
+<h2 id="1"></h2>
 Скачать можно по ссылке:
 
 [Google Drive](https://drive.google.com/file/d/19pNIGY80TlmoEFG9sgoUKpGXWwwmy3uI/view?usp=sharing)
@@ -30,7 +30,7 @@ VirusTotal показал только 1 сработку, из за отпра�
 
 При ошибке скачивания с одного портала попробуйте другой!
 
-##contact
+<h2 id="2"></h2>
 
 Made by ssskelet
 
