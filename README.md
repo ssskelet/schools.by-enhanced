@@ -33,7 +33,10 @@ VirusTotal показал только 1 сработку, из за отпра�
 [Mega](https://mega.nz/file/9d9ShCpZ#Xj_qn2beJdqiCXZoyp40ky9fB1-fn6Ocly2l0kB3Hls)
 
 [!WARNING]
+
 При ошибке скачивания с одного портала попробуйте другой!
+
+[!WARNING]
 
 <h2 id="2"></h2>
 Made by ssskelet
