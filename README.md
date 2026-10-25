@@ -15,10 +15,10 @@ VirusTotal показал только 1 сработку, из за отпра�
 
 Скачать можно по ссылке:
 
-[Google Drive](https://drive.google.com/file/d/1v20pLI3ax9TWVVX5RaLLhhT0bt6iNWub/view?usp=sharing)
+[Google Drive](https://drive.google.com/file/d/19pNIGY80TlmoEFG9sgoUKpGXWwwmy3uI/view?usp=sharing)
 
-[Mediafire](https://www.mediafire.com/file/elvjjzs3jcxtbht/SchoolsByEnhanced.zip/file)
+[Mediafire](https://www.mediafire.com/file/lxqn5tz3uu6clna/SchoolsByEnhanced.zip/file)
 
-[Mega](https://mega.nz/file/dYcUUJDZ#OTSMdqEoSpK5a1T0-K0ZmZUJEz7wcIMh1z78sEgVRGE)
+[Mega](https://mega.nz/file/9d9ShCpZ#Xj_qn2beJdqiCXZoyp40ky9fB1-fn6Ocly2l0kB3Hls)
 
 При ошибке скачивания с одного портала попробуйте другой!
