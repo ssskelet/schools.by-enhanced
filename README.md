@@ -16,7 +16,9 @@
 <img width="1865" height="907" alt="изображение" src="https://github.com/user-attachments/assets/bee1e9e1-f358-4409-ac63-007d8028dc1a" />
 Приложение не содержит никаких вирусов!
 <img width="1873" height="868" alt="изображение" src="https://github.com/user-attachments/assets/870a58c4-a995-4f82-a990-98c3038702b2" />
+[!WARNING]
 VirusTotal показал только 1 сработку, из за отправки ваших данных для входа на официальный сайт schools.by, кроме этого сайта ваши данные никто не видит, т.к. приложение работает локально
+
 #download
 Скачать можно по ссылке:
 
@@ -29,6 +31,9 @@ VirusTotal показал только 1 сработку, из за отпра�
 При ошибке скачивания с одного портала попробуйте другой!
 
 #contact
+
 Made by ssskelet
+
 Связь: ssskelet@outlook.com
+
 Telegram бот: [@schools_by_enhanced_bot](tg:@schools_by_enhanced_bot)
