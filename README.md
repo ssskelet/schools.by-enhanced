@@ -6,7 +6,7 @@
 Приложение потребует вход в ваш аккаунт schools.by, и кроме сервиса schools.by ваши данные не будут переданы 3-им лицам!
 
 Приложение работает только по подписке!  Получить ключ можно написав в  Telegram бота: @schools_by_enhanced_bot
-<img width="900" height="900" alt="изображение" src="https://github.com/user-attachments/assets/e8319f91-7901-47ce-a8fe-535d92b12fd9" />
+<img width="948" height="1085" alt="изображение" src="https://github.com/user-attachments/assets/e796c697-492b-490a-bfdc-215585574bc3" />
 Удачного пользования!
 <img width="1865" height="907" alt="изображение" src="https://github.com/user-attachments/assets/bee1e9e1-f358-4409-ac63-007d8028dc1a" />
 Приложение не содержит никаких вирусов!
