@@ -39,4 +39,4 @@ Made by ssskelet
 
 Связь: ssskelet@outlook.com
 
-Telegram бот: [@schools_by_enhanced_bot](tg://@schools_by_enhanced_bot)
+Telegram бот: [@schools_by_enhanced_bot](tg:schools_by_enhanced_bot)
