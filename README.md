@@ -33,6 +33,15 @@ VirusTotal показал только 1 сработку, из за отпра�
 
 При ошибке скачивания с одного портала попробуйте другой!
 
+ВАЖНО!
+
+Для работы приложения вам понадобится [.NET 8](https://dotnet.microsoft.com/ru-ru/download/dotnet/8.0)
+
+Если не установлен скачайте по ссылке на официальном сайте
+
+Сайт: https://dotnet.microsoft.com/ru-ru/download/dotnet/8.0
+
+
 <h2 id="2"></h2>
 Made by ssskelet
 
