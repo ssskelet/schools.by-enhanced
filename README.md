@@ -25,7 +25,7 @@ VirusTotal показал только 1 сработку, из за отпра�
 <h1 id="1"></h1>
 Скачать:
 
-
+https://github.com/ssskelet/schools.by-enhanced/releases
 
 ВАЖНО!
 
