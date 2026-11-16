@@ -27,17 +27,12 @@ VirusTotal показал только 1 сработку, из за отпра�
 
 https://github.com/ssskelet/schools.by-enhanced/releases
 
-ВАЖНО!
-
-Для работы приложения вам понадобится [.NET 8](https://dotnet.microsoft.com/ru-ru/download/dotnet/8.0)
-
-Если не установлен скачайте по ссылке на официальном сайте
-
-Сайт: https://dotnet.microsoft.com/ru-ru/download/dotnet/8.0
+Приложение самостоятельно обновляется при выходе новых версий
 
 
 <h2 id="2"></h2>
 Made by ssskelet
+
 
 Telegram бот: [@schools_by_enhanced_bot](https://t.me/schools_by_enhanced_bot)
 
