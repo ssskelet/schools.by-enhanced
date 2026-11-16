@@ -23,15 +23,9 @@
 VirusTotal показал только 1 сработку, из за отправки ваших данных для входа на официальный сайт schools.by, кроме этого сайта ваши данные никто не видит, т.к. приложение работает локально
 
 <h1 id="1"></h1>
-Скачать можно по ссылке:
+Скачать:
 
-[Google Drive](https://drive.google.com/file/d/19pNIGY80TlmoEFG9sgoUKpGXWwwmy3uI/view?usp=sharing)
 
-[Mediafire](https://www.mediafire.com/file/lxqn5tz3uu6clna/SchoolsByEnhanced.zip/file)
-
-[Mega](https://mega.nz/file/9d9ShCpZ#Xj_qn2beJdqiCXZoyp40ky9fB1-fn6Ocly2l0kB3Hls)
-
-При ошибке скачивания с одного портала попробуйте другой!
 
 ВАЖНО!
 
