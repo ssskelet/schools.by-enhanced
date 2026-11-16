@@ -45,8 +45,6 @@ VirusTotal показал только 1 сработку, из за отпра�
 <h2 id="2"></h2>
 Made by ssskelet
 
-Связь: ssskelet@outlook.com
-
 Telegram бот: [@schools_by_enhanced_bot](https://t.me/schools_by_enhanced_bot)
 
 [Поддержать автора](https://www.donationalerts.com/r/ssskelet0)
